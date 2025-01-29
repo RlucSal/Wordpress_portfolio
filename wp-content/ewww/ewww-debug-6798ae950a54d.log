@@ -1,0 +1,68 @@
+2025-01-28 10:16:53
+<b>EWWW\Base::__construct()</b>
+plugin (resource) content_url: https://rlucena.co.uk/wp-content/ewww/
+plugin (resource) content_dir: /home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/
+home url: https://rlucena.co.uk/
+relative home url: //rlucena.co.uk/
+home domain: rlucena.co.uk
+<b>EWWW\Plugin::instance()</b>
+<b>EWWW\Backup::__construct()</b>
+<b>EWWW\Local::__construct()</b>
+<b>EWWW\Local::exec_check()</b>
+exec appears to be disabled
+<b>EWWW\Local::disable_tools()</b>
+<b>EWWW\Local::skip_tools()</b>
+<b>EWWW\Plugin::cloud_init()</b>
+<b>plugins_compat()</b>
+checking active plugins
+<b>ewww_image_optimizer_init()</b>
+<b>EWWW\Lazy_Load::__construct()</b>
+<b>EWWW\Base::content_url()</b>
+site/upload url: https://rlucena.co.uk
+site/upload domain: rlucena.co.uk
+upload_url: https://rlucena.co.uk/wp-content/uploads/
+request uri is /wp-admin/plugins.php?action=deactivate&plugin=ewww-image-optimizer%2Fewww-image-optimizer.php&plugin_status=all&paged=1&s&_wpnonce=9c54c586bd&
+is_admin
+<b>EWWW\JS_Webp::__construct()</b>
+<b>EWWW\Base::content_url()</b>
+site/upload url: https://rlucena.co.uk
+site/upload domain: rlucena.co.uk
+upload_url: https://rlucena.co.uk/wp-content/uploads/
+request uri is /wp-admin/plugins.php?action=deactivate&plugin=ewww-image-optimizer%2Fewww-image-optimizer.php&plugin_status=all&paged=1&s&_wpnonce=9c54c586bd&
+is_admin
+<b>EWWW\Picture_Webp::__construct()</b>
+<b>EWWW\Base::content_url()</b>
+site/upload url: https://rlucena.co.uk
+site/upload domain: rlucena.co.uk
+upload_url: https://rlucena.co.uk/wp-content/uploads/
+request uri is /wp-admin/plugins.php?action=deactivate&plugin=ewww-image-optimizer%2Fewww-image-optimizer.php&plugin_status=all&paged=1&s&_wpnonce=9c54c586bd&
+is_admin
+<b>EWWW\Tracking::schedule_send()</b>
+<b>ewww_image_optimizer_upgrade()</b>
+<b>EWWW\Plugin::register_settings()</b>
+<b>EWWW\Plugin::cloud_init()</b>
+<b>EWWW\Plugin::exec_init()</b>
+<b>ewww_image_optimizer_cron_setup()</b>
+<b>EWWW\Plugin::tool_init()</b>
+<b>EWWW\Local::install_tools()</b>
+Checking/Installing tools in /home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/
+<b>EWWW\Local::skip_tools()</b>
+CPU architecture: x86_64
+wp-content/ewww permissions: 0755
+<b>EWWW\Local::install_paths()</b>
+CPU architecture: x86_64
+generated paths:
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/plugins/ewww-image-optimizer/binaries/jpegtran-linux
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/plugins/ewww-image-optimizer/binaries/optipng-linux
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/plugins/ewww-image-optimizer/binaries/gifsicle-linux
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/plugins/ewww-image-optimizer/binaries/pngquant-linux
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/plugins/ewww-image-optimizer/binaries/cwebp-linux
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/jpegtran
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/optipng
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/gifsicle
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/pngquant
+/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/cwebp
+Linux/UNIX style OS, checking permissions
+<b>EWWW\Local::check_permissions()</b>
+permissions for /home/u711599179/domains/rlucena.co.uk/public_html/wp-content/ewww/pngquant: 0755
+permissions ok

@@ -7,11 +7,12 @@
  * @package HelloElementor
  */
 if ( ! defined( 'ABSPATH' ) ) {
-	exit; // Exit if accessed directly.
+	exit; 
 }
 
 if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_location( 'footer' ) ) {
-	echo do_shortcode('[hfe_template id="310"]'); 
+	
+	echo do_shortcode('[hfe_template id="310"]');
 }
 
 ?>
@@ -20,4 +21,3 @@ if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_
 
 </body>
 </html>
-

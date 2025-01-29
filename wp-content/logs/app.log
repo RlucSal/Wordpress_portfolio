@@ -1,0 +1,130 @@
+
+28-01-2025 10:57:16 [rlucena.co.uk][info] Parent plugin start installation!
+28-01-2025 10:57:16 [rlucena.co.uk][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.8.4
+28-01-2025 10:57:16 [rlucena.co.uk][info] Parent plugin installation complete!
+-------------------------------
+28-01-2025 10:57:21 [rlucena.co.uk][info] Try to create backup directory. Backup dir: (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/wio_backup)
+-------------------------------
+28-01-2025 10:57:33 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:33 [rlucena.co.uk][info] Try to create backup directory. Backup dir: (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/wio_backup/2024/09)
+28-01-2025 10:57:33 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/1725374346874-2.jpeg) to a remote server (server_2).
+28-01-2025 10:57:34 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/1725374346874-2-150x150.jpeg) to a remote server (server_2).
+28-01-2025 10:57:34 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/1725374346874-2-300x300.jpeg) to a remote server (server_2).
+28-01-2025 10:57:35 [rlucena.co.uk][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"424","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":42300,"final_size":42300,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":30359,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061855}
+28-01-2025 10:57:35 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+28-01-2025 10:57:35 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:35 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/homepage.gif) to a remote server (server_2).
+28-01-2025 10:57:35 [rlucena.co.uk][error] Image exceeds the maximum allowed size of 10MB! Enable the 'Resizing large images' option to reduce the image size or switch to a premium server without limitations.
+28-01-2025 10:57:35 [rlucena.co.uk][error] Error to optimize attachment (ID: #1659). Message: "Image exceeds the maximum allowed size of 10MB! Enable the 'Resizing large images' option to reduce the image size or switch to a premium server without limitations."
+	-> Attachment optimized? No
+	-> Should be resized? No
+	-> Original size: 800x398
+	-> Relative path: 2024/09/homepage.gif
+	-> Server used: server_2
+	->  Additional sizes:
+		-> Type: medium, size: 300x149, MIME type: image/gif
+		-> Type: thumbnail, size: 150x150, MIME type: image/gif
+		-> Type: medium_large, size: 768x382, MIME type: image/gif
+
+28-01-2025 10:57:35 [rlucena.co.uk][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"1659","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"error","processing_level":"normal","is_backed_up":true,"original_size":0,"final_size":0,"original_mime_type":"","final_mime_type":"","extra_data":"{\"error\":\"optimization\",\"error_msg\":\"Image exceeds the maximum allowed size of 10MB! Enable the 'Resizing large images' option to reduce the image size or switch to a premium server without limitations.\",\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061855}
+28-01-2025 10:57:35 [rlucena.co.uk][error] Failed to process (url: https://rlucena.co.uk/wp-content/uploads/2024/09/homepage.gif, path: /home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/homepage.gif, quality: 90) as error was returned: Image exceeds the maximum allowed size of 10MB! Enable the 'Resizing large images' option to reduce the image size or switch to a premium server without limitations.
+28-01-2025 10:57:35 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+28-01-2025 10:57:35 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:35 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/Untitled_design__4_-removebg-preview.png) to a remote server (server_2).
+28-01-2025 10:57:36 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/Untitled_design__4_-removebg-preview-150x150.png) to a remote server (server_2).
+28-01-2025 10:57:36 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/Untitled_design__4_-removebg-preview-300x169.png) to a remote server (server_2).
+28-01-2025 10:57:37 [rlucena.co.uk][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"1952","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2550,"final_size":2482,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1470,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061857}
+28-01-2025 10:57:37 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+28-01-2025 10:57:37 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:37 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/cropped-Untitled_design__4_-removebg-preview.png) to a remote server (server_2).
+28-01-2025 10:57:37 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/09/cropped-Untitled_design__4_-removebg-preview-150x69.png) to a remote server (server_2).
+28-01-2025 10:57:38 [rlucena.co.uk][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"1953","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":3567,"final_size":3566,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":1798,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061858}
+28-01-2025 10:57:38 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+28-01-2025 10:57:38 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:38 [rlucena.co.uk][info] Try to create backup directory. Backup dir: (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/wio_backup/2024/10)
+28-01-2025 10:57:40 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/sign-up-torrevisca.png) to a remote server (server_2).
+28-01-2025 10:57:41 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/sign-up-torrevisca-150x150.png) to a remote server (server_2).
+28-01-2025 10:57:42 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/sign-up-torrevisca-300x143.png) to a remote server (server_2).
+28-01-2025 10:57:42 [rlucena.co.uk][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"2336","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":224546,"final_size":224478,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":203881,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061862}
+28-01-2025 10:57:42 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+28-01-2025 10:57:42 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:44 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/about-us-torrevisca.png) to a remote server (server_2).
+28-01-2025 10:57:45 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/about-us-torrevisca-150x150.png) to a remote server (server_2).
+28-01-2025 10:57:46 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/about-us-torrevisca-300x143.png) to a remote server (server_2).
+28-01-2025 10:57:46 [rlucena.co.uk][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"2337","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":373142,"final_size":285794,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":326026,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061866}
+28-01-2025 10:57:46 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+28-01-2025 10:57:47 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:50 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/cataloge-torrevisca-.png) to a remote server (server_2).
+28-01-2025 10:57:51 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/cataloge-torrevisca--150x150.png) to a remote server (server_2).
+28-01-2025 10:57:52 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/cataloge-torrevisca--300x143.png) to a remote server (server_2).
+28-01-2025 10:57:54 [rlucena.co.uk][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"2338","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1555326,"final_size":296986,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1477623,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061874}
+28-01-2025 10:57:54 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+28-01-2025 10:57:54 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:55 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-task.png) to a remote server (server_2).
+28-01-2025 10:57:56 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-task-150x150.png) to a remote server (server_2).
+28-01-2025 10:57:57 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-task-300x141.png) to a remote server (server_2).
+28-01-2025 10:57:58 [rlucena.co.uk][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"2619","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":129984,"final_size":61570,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":107124,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061878}
+28-01-2025 10:57:58 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+28-01-2025 10:57:58 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:57:59 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-dash.png) to a remote server (server_2).
+28-01-2025 10:58:00 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-dash-150x150.png) to a remote server (server_2).
+28-01-2025 10:58:01 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-dash-300x144.png) to a remote server (server_2).
+28-01-2025 10:58:01 [rlucena.co.uk][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"2620","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":119110,"final_size":55441,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":97422,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061881}
+28-01-2025 10:58:01 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+28-01-2025 10:58:01 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:58:04 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-login.png) to a remote server (server_2).
+28-01-2025 10:58:05 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-login-150x150.png) to a remote server (server_2).
+28-01-2025 10:58:06 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-login-300x147.png) to a remote server (server_2).
+28-01-2025 10:58:07 [rlucena.co.uk][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"2621","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":706029,"final_size":207007,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":647891,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061887}
+28-01-2025 10:58:07 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+28-01-2025 10:58:08 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:58:08 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-video.gif) to a remote server (server_2).
+28-01-2025 10:58:10 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-video-150x150.gif) to a remote server (server_2).
+28-01-2025 10:58:11 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/edisy-video-300x142.gif) to a remote server (server_2).
+28-01-2025 10:58:11 [rlucena.co.uk][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"2626","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":2426179,"final_size":2396491,"original_mime_type":"image\/gif","final_mime_type":"image\/gif","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":2412724,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061891}
+28-01-2025 10:58:11 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+28-01-2025 10:58:11 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:58:11 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/dishcoverygif.gif) to a remote server (server_2).
+28-01-2025 10:58:15 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/dishcoverygif-150x150.gif) to a remote server (server_2).
+28-01-2025 10:58:15 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/dishcoverygif-300x142.gif) to a remote server (server_2).
+28-01-2025 10:58:16 [rlucena.co.uk][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"2646","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":6227394,"final_size":6109267,"original_mime_type":"image\/gif","final_mime_type":"image\/gif","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6217012,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061896}
+28-01-2025 10:58:16 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+28-01-2025 10:58:16 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:58:17 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/searcher.png) to a remote server (server_2).
+28-01-2025 10:58:18 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/searcher-150x150.png) to a remote server (server_2).
+28-01-2025 10:58:19 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/searcher-300x140.png) to a remote server (server_2).
+28-01-2025 10:58:19 [rlucena.co.uk][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"2650","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":57923,"final_size":19842,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":52494,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061899}
+28-01-2025 10:58:19 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-01-2025 10:58:20 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 10:58:21 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/menuplanner.png) to a remote server (server_2).
+28-01-2025 10:58:22 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/menuplanner-150x150.png) to a remote server (server_2).
+28-01-2025 10:58:23 [rlucena.co.uk][info] Preparing to upload a file (/home/u711599179/domains/rlucena.co.uk/public_html/wp-content/uploads/2024/10/menuplanner-300x144.png) to a remote server (server_2).
+28-01-2025 10:58:24 [rlucena.co.uk][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"2651","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":128270,"final_size":54525,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":106845,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1738061904}
+28-01-2025 10:58:24 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+28-01-2025 11:00:57 [rlucena.co.uk][info] Start bulk optimization process! Scope: media-library
+28-01-2025 11:00:57 [rlucena.co.uk][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+28-01-2025 11:01:26 [rlucena.co.uk][warning] This format is disabled in the plugin settings: image/webp
+-------------------------------
+28-01-2025 11:01:27 [rlucena.co.uk][warning] This format is disabled in the plugin settings: image/webp
+-------------------------------
+28-01-2025 11:02:15 [rlucena.co.uk][info] Parent plugin start deactivation!
+28-01-2025 11:02:15 [rlucena.co.uk][info] Parent plugin deactivation complete!
+-------------------------------
